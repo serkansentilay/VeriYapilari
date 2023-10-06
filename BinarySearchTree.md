@@ -4,4 +4,4 @@
 #                    6 => 6 root
 #           3 => solda 3            7=>sağda 7
 #  1=>solda 1  2 =>sağda 2           5=>solda 5 8 =>sağda 8
-#                                   4=>solda            9 =>sağda    
+#   0=>solda 0                        4=>solda            9 =>sağda    
